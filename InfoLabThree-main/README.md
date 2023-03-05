@@ -1,2 +1,2 @@
 # InfoLabThree
- InfoLabThree
+ InfoLab 3
